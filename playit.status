@@ -1,0 +1,515 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731887870953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731887874025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731887889190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731887892273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731887895356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731887910450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731887913508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731887928590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731887943678 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731887946823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731887961903 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731887977006 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731887980211 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731887995302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731887998358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888013453 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888028542 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888031600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888034675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888049771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888052839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888067927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888070986 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888086093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888101184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888104238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888119321 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888122375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888137476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888152572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888155629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888170755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888173946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888189043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888192100 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888207314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888210385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888225477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888228545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888243725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888258837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888261991 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888277362 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888280426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888295525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888310623 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888313693 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888316765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888331862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888334942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888350035 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888353096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888368214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888383323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888386390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888401492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888404574 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888419669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888422729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888437838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888452930 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888456017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888471138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888474197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+ 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731888471483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1731888474556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+views-trusts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+night-positive.gl.at.ply.gg:41291 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
